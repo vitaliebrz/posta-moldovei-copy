@@ -2,6 +2,8 @@
 
 Site web al Î.S. Poșta Moldovei, construit cu React. Suportă trei limbi (RO / EN / RU) și este complet responsive.
 
+🔗 **Live demo:** [posta-moldovei-copy.netlify.app](https://posta-moldovei-copy.netlify.app/)
+
 ---
 
 ## Tehnologii
