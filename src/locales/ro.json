@@ -1,0 +1,137 @@
+{
+    "nav-home": "Acasă",
+    "nav-courier": "Curier",
+    "nav-qa": "Întrebări",
+    "faq-title": "Întrebări frecvente",
+    "baner-title": "Curier Rapid",
+    "baner-content": "Livrăm responsabil oriunde în Moldova",
+    "faq": [
+        {
+            "title": "Am primit un aviz/mesaj la telefon cu referire la o trimitere poștală, ce trebuie să întreprind în continuare?",
+            "content": "Mesajul primit informează despre parvenirea unei trimiteri poștale pe adresa dumneavoastră. Pentru ridicarea trimiterii, prezentați-vă cu documentul de legitimare la oficiul poștal indicat în mesaj."
+        },
+        {
+            "title": "Cum ambalez corect o trimitere poștală?",
+            "content": "Ambalați și închideți coletul în așa fel, încât să nu amenințe sănătatea salariaților poștali. Astfel, se va reuși evitarea pericolului de rănire a salariaților antrenați la prelucrarea trimiterii.\n\n Închideți coletul într-un ambalaj intact (fără crăpături, rupturi) care să corespundă greutății, formei și naturii conținutului, cât și modului și duratei transportului. Trimiterea trebuie să fie în forme ușor de mânuit.\n\n Ambalați în mod special obiectele din sticlă sau fragile, plasându-le într-o cutie rezistentă, umplută cu un material protector corespunzător.\n\nÎnchideți lichidele și corpurile ușor lichefiabile în recipiente ermetice. Plasați fiecare recipient în cutii rezistente, căptușite cu material protector corespunzător.\n\nPrafurile uscate, colorante, precum albastru de anilină, etc. nu sunt admise spre transportare, decât în cutii metalice, plasate, la rândul lor, în cutii rezistente, cu un material absorbant și protector între cele două ambalaje.\n\nÎnchideți într-un prim ambalaj (cutie, sac din pânză, material plastic) corpurile grase, greu lichefiabile (unguente, săpun moale, etc.)."
+        },
+        {
+            "title": "Ce documente trebuie să prezint la ridicarea trimiterii poștale? Poate o altă persoană să ridice trimiterea mea?",
+            "content": "La ridicarea trimiterii poștale prezentați unul dintre actele următoare:\n\n\t\tcarte de identitate;\n\t\tpașaport;\n\t\tpermis de ședere;\n\t\tdocument de călătorie eliberat persoanelor cărora li s-a acordat statutul de refugiat sau protecție umanitară;\n\t\tpermisul de conducere auto.\n\nColetele, trimiterile EMS și trimiterile contra-ramburs pot fi eliberate altor persoane decât destinatarul doar în baza procurii perfectate în modul stabilit.\n\nTrimiterile poştei de scrisori înregistrate (scrisori și pachete mici până la 2 kg), exceptând trimiterile cu menţiunile \"Predarea în mână proprie\", \"Citaţie\" sau \"Înştiinţare\", pot fi eliberate fără procură membrilor familiei de gradul întâi și doi care au atins vârsta majoratului, la prezentarea unuia dintre documentele de legitimare şi a documentului de confirmare a relaţiilor de rudenie (mamă, tată, fiu, fiică, soţ, soţie, frate, soră, bunic, bunică)."
+        },
+        {
+            "title": "Cum pot readresa o trimitere într-un alt oficiu poștal?",
+            "content": "Pentru readresarea corespondenței dintr-un oficiu poștal în altul, este necesar să depuneți o cerere specială. Cererea respectivă poate fi depusă în orice oficiu poștal și este un serviciu auxiliar, contra plată."
+        }
+    ],
+    "grid-item-1": "Urmărire",
+    "grid-item-2": "Căutare oficiu poștal",
+    "grid-item-3": "Calculator trimitere poștală",
+    "grid-item-4": "Calculator Curier Rapid",
+    "grid-item-5": "Calculator transfer de bani",
+    "grid-item-6": "Post-Terminal",
+    "noutati-title": "Noutăți",
+    "stire": "Știre",
+    "stiri": [
+        {
+            "data": "21 Aprilie 2026",
+            "stireTitle": "Seminar regional ORE+ la Tbilisi",
+            "stireContent": "Participarea Î.S \"Poșta Moldovei\" la seminarul regional de lansare a proiectului ORE+ în Tbilisi, Georgia"
+        },
+        {
+            "data": "16 Aprilie 2026",
+            "stireTitle": "Reluarea trimiterilor către Israel",
+            "stireContent": "Poșta Moldovei reia recepționarea trimiterilor poștale către Israel"
+        },
+        {
+            "data": "12 Aprilie 2026",
+            "stireTitle": "Felicitare cu ocazia Paștelui",
+            "stireContent": "Mesaj de felicitare cu ocazia Sfintelor Sărbători Pascale"
+        },
+        {
+            "data": "7 Aprilie 2026",
+            "stireTitle": "Program de lucru de Paști",
+            "stireContent": "Programul de lucru al oficiilor poștale în perioada Sărbătorilor de Paști"
+        },
+        {
+            "data": "6 Aprilie 2026",
+            "stireTitle": "Renovare oficiu poștal Congaz",
+            "stireContent": "Renovarea Oficiului Poștal MD-381, satul Congaz, din municipiul Comrat"
+        },
+        {
+            "data": "3 Aprilie 2026",
+            "stireTitle": "Mărci poștale Europa 2026",
+            "stireContent": "Lansarea serieri de mărci poștale \"Europa 2026. A 70-a aniversare a marcii poștale Europa. Uniți în aspirație și unitate\""
+        },
+        {
+            "data": "25 Martie 2026",
+            "stireTitle": "Ziua Mondială a Cărții Poștale",
+            "stireContent": "Ziua Mondială a Cărții Poștale"
+        },
+        {
+            "data": "24 Martie 2026",
+            "stireTitle": "Renovare oficiu poștal Pripiceni-Răzeși",
+            "stireContent": "Oficiul Poștal din Pripiceni-Răzeși, raionul Rezina (MD-5430), renovat"
+        },
+        {
+            "data": "20 Martie 2026",
+            "stireTitle": "Achiziție 10 automobile noi",
+            "stireContent": "Î.S \"Poșta Moldovei\" a achiziționat 10 automobile noi prin desfășurarea unei șicitații deschise"
+        },
+        {
+            "data": "11 Martie 2026",
+            "stireTitle": "Modernizare oficiu poștal Danu",
+            "stireContent": "Oficiul Poștal din comuna Danu, raionul Glodeni (MD-4920) - spațiu modernizat pentru comuinitate"
+        },
+        {
+            "data": "6 Martie 2026",
+            "stireTitle": "Felicitare de 8 Martie",
+            "stireContent": "Mesaj de feliciare cu ocazia zilei Internaționale a Femeii"
+        }
+    ],
+    "footer-desc": "Î.S. Poșta Moldovei — servicii poștale de calitate pentru fiecare locuitor al Moldovei.",
+    "footer-nav-title": "Navigare",
+    "footer-contact-title": "Contact",
+    "footer-address": "Bd. Ștefan cel Mare și Sfânt 134, Chișinău",
+    "footer-phone": "+373 22 270 044",
+    "footer-email": "informatii@posta.md",
+    "footer-rights": "© 2026 Î.S. Poșta Moldovei. Toate drepturile rezervate.",
+    "courier-hero-title": "Livrare rapidă la ușa ta",
+    "courier-hero-subtitle": "Serviciul Curier Rapid al Poștei Moldovei asigură livrarea coletelor și documentelor în cel mai scurt timp, oriunde în Moldova.",
+    "courier-hero-cta": "Calculează prețul",
+    "courier-features-title": "De ce să alegi Curier Rapid?",
+    "courier-features": [
+        {
+            "title": "Livrare în aceeași zi",
+            "desc": "Comenzile plasate până la ora 12:00 sunt livrate în aceeași zi în localitățile deservite."
+        },
+        {
+            "title": "Urmărire în timp real",
+            "desc": "Monitorizează statutul trimiterii tale în orice moment, direct de pe telefon sau computer."
+        },
+        {
+            "title": "Asigurare inclusă",
+            "desc": "Fiecare trimitere este asigurată automat. Valoarea declarată este protejată pe tot parcursul transportului."
+        }
+    ],
+    "courier-steps-title": "Cum funcționează?",
+    "courier-steps": [
+        {
+            "step": "01",
+            "title": "Plasezi comanda",
+            "desc": "Completezi formularul online sau te prezinți la cel mai apropiat oficiu poștal."
+        },
+        {
+            "step": "02",
+            "title": "Ridicăm coletul",
+            "desc": "Curierii noștri vin la adresa indicată și ridică trimiterea."
+        },
+        {
+            "step": "03",
+            "title": "Livrăm destinatarului",
+            "desc": "Destinatarul primește coletul acasă și confirmă recepția."
+        }
+    ],
+    "courier-cta-title": "Gata să trimiți ceva?",
+    "courier-cta-subtitle": "Comandă acum și beneficiezi de livrare rapidă oriunde în Moldova.",
+    "courier-cta-btn": "Comandă acum"
+}

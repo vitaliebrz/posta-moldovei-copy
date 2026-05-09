@@ -1,0 +1,116 @@
+{
+    "nav-home": "Home",
+    "nav-courier": "Courier",
+    "nav-qa": "FAQ",
+    "faq-title": "Frequently asked questions",
+    "baner-title": "Express Courier",
+    "baner-content": "We deliver responsibly anywhere in Moldova",
+    "faq": [
+        {
+            "title": "I received a notice/message on my phone regarding a postal item, what should I do next?",
+            "content": "The message received informs you about the arrival of a postal item at your address. To pick up the item, please present yourself with your identity document at the post office indicated in the message."
+        },
+        {
+            "title": "How do I correctly pack a postal item?",
+            "content": "Pack and seal the parcel in such a way that it does not pose a health risk to postal employees. This will help avoid the danger of injury to employees involved in processing the item.\n\nClose the parcel in intact packaging (without cracks or tears) that corresponds to the weight, shape and nature of the contents, as well as the mode and duration of transport. The item must be in an easily handleable form.\n\nPack glass or fragile objects specially, placing them in a sturdy box filled with appropriate protective material.\n\nSeal liquids and easily liquefiable substances in airtight containers. Place each container in sturdy boxes lined with appropriate protective material.\n\nDry powders and dyes, such as aniline blue, etc., are not permitted for transport except in metal boxes, placed in turn in sturdy boxes with absorbent and protective material between the two packages.\n\nSeal fatty, hard-to-liquefy substances (ointments, soft soap, etc.) in a first package (box, cloth bag, plastic material)."
+        },
+        {
+            "title": "What documents must I present when picking up a postal item? Can another person pick up my item?",
+            "content": "When picking up a postal item, present one of the following documents:\n\n\t\tidentity card;\n\t\tpassport;\n\t\tresidence permit;\n\t\ttravel document issued to persons granted refugee status or humanitarian protection;\n\t\tdriving license.\n\nParcels, EMS items and cash-on-delivery items may be released to persons other than the addressee only on the basis of a power of attorney drawn up in the established manner.\n\nRegistered letter mail items (letters and small packages up to 2 kg), except items marked \"Personal delivery\", \"Summons\" or \"Notice\", may be released without a power of attorney to first and second degree family members who have reached the age of majority, upon presentation of one of the identity documents and a document confirming the family relationship (mother, father, son, daughter, husband, wife, brother, sister, grandfather, grandmother)."
+        },
+        {
+            "title": "How can I redirect an item to another post office?",
+            "content": "To redirect mail from one post office to another, you need to submit a special request. This request can be submitted at any post office and is an auxiliary paid service."
+        }
+    ],
+    "grid-item-1": "Tracking",
+    "grid-item-2": "Find a post office",
+    "grid-item-3": "Postal item calculator",
+    "grid-item-4": "Express Courier calculator",
+    "grid-item-5": "Money transfer calculator",
+    "grid-item-6": "Post-Terminal",
+    "noutati-title": "News",
+    "stire": "News",
+    "stiri": [
+        {
+            "data": "April 21, 2026",
+            "stireTitle": "ORE+ Regional Seminar in Tbilisi",
+            "stireContent": "Participation of S.E. \"Posta Moldovei\" in the regional launch seminar of the ORE+ project in Tbilisi, Georgia"
+        },
+        {
+            "data": "April 16, 2026",
+            "stireTitle": "Resuming shipments to Israel",
+            "stireContent": "Posta Moldovei resumes acceptance of postal items to Israel"
+        },
+        {
+            "data": "April 12, 2026",
+            "stireTitle": "Easter greetings",
+            "stireContent": "Greeting message on the occasion of the Holy Easter Holidays"
+        },
+        {
+            "data": "April 7, 2026",
+            "stireTitle": "Easter working hours",
+            "stireContent": "Working hours of post offices during the Easter Holidays"
+        },
+        {
+            "data": "April 6, 2026",
+            "stireTitle": "Renovation of Congaz post office",
+            "stireContent": "Renovation of Post Office MD-381, Congaz village, Comrat municipality"
+        },
+        {
+            "data": "April 3, 2026",
+            "stireTitle": "Europa 2026 postage stamps",
+            "stireContent": "Launch of the postage stamp series \"Europa 2026. The 70th anniversary of the Europa postage stamp. United in aspiration and unity\""
+        },
+        {
+            "data": "March 25, 2026",
+            "stireTitle": "World Postcard Day",
+            "stireContent": "World Postcard Day"
+        },
+        {
+            "data": "March 24, 2026",
+            "stireTitle": "Renovation of Pripiceni-Răzeși post office",
+            "stireContent": "Post Office in Pripiceni-Răzeși, Rezina district (MD-5430), renovated"
+        },
+        {
+            "data": "March 20, 2026",
+            "stireTitle": "Acquisition of 10 new vehicles",
+            "stireContent": "S.E. \"Posta Moldovei\" acquired 10 new vehicles through an open tender"
+        },
+        {
+            "data": "March 11, 2026",
+            "stireTitle": "Modernisation of Danu post office",
+            "stireContent": "Post Office in Danu commune, Glodeni district (MD-4920) - modernised space for the community"
+        },
+        {
+            "data": "March 6, 2026",
+            "stireTitle": "International Women's Day greetings",
+            "stireContent": "Greeting message on the occasion of International Women's Day"
+        }
+    ],
+    "footer-desc": "S.E. Posta Moldovei — quality postal services for every resident of Moldova.",
+    "footer-nav-title": "Navigation",
+    "footer-contact-title": "Contact",
+    "footer-address": "134 Stefan cel Mare Blvd., Chisinau",
+    "footer-phone": "+373 22 270 044",
+    "footer-email": "informatii@posta.md",
+    "footer-rights": "© 2026 S.E. Posta Moldovei. All rights reserved.",
+    "courier-hero-title": "Fast delivery to your door",
+    "courier-hero-subtitle": "Posta Moldovei's Express Courier service ensures the fastest delivery of parcels and documents anywhere in Moldova.",
+    "courier-hero-cta": "Calculate price",
+    "courier-features-title": "Why choose Express Courier?",
+    "courier-features": [
+        { "title": "Same-day delivery", "desc": "Orders placed before 12:00 are delivered the same day in serviced localities." },
+        { "title": "Real-time tracking", "desc": "Monitor the status of your shipment at any time, directly from your phone or computer." },
+        { "title": "Insurance included", "desc": "Every shipment is automatically insured. The declared value is protected throughout transport." }
+    ],
+    "courier-steps-title": "How does it work?",
+    "courier-steps": [
+        { "step": "01", "title": "Place your order", "desc": "Fill in the online form or visit your nearest post office." },
+        { "step": "02", "title": "We pick up the parcel", "desc": "Our couriers come to the indicated address and collect the shipment." },
+        { "step": "03", "title": "We deliver to the recipient", "desc": "The recipient receives the parcel at home and confirms receipt." }
+    ],
+    "courier-cta-title": "Ready to send something?",
+    "courier-cta-subtitle": "Order now and enjoy fast delivery anywhere in Moldova.",
+    "courier-cta-btn": "Order now"
+}
